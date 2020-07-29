@@ -1,3 +1,6 @@
+Produced as a code-along project, a part of Udemy's course:
+Complete React Developer.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
